@@ -13,10 +13,10 @@ Projeto feito no módulo do curso Node + Typescript
 
 # Pré-requisitos globais:
 
-**npm i -g nodemon ts-node**
+`**npm i -g nodemon ts-node**`
 
-**npm install**
+`**npm install**`
 
-**npm run start-dev**
+`**npm run start-dev**`
 
 
